@@ -34,6 +34,14 @@
     {% if site.search == true %}
       <div class="search-content">
         {% include search/search_form.html %}
+        <ul>
+          {% for resumen in site.data.resumenes %}
+            <li>
+              {{ resumen.title }} por {{ resumen.author }}
+            </li>
+          {% endfor %}
+          </ul>
+          
       </div>
     {% endif %}
 

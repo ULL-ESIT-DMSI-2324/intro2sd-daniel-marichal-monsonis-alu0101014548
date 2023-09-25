@@ -30,4 +30,21 @@ Systems development is not an isolated function; it intertwines with several oth
 
 Many organizations offshore or outsource their systems development. Offshoring is usually done to capitalize on cheaper, high-quality resources in other countries, such as India. Outsourcing is the practice of delegating development work to specialized IT firms, which might also be coupled with offshoring. These practices come with their own sets of advantages and challenges, such as communication barriers and loss of control over critical systems.
 
-By understanding these facets of systems development, organizations can better manage the complexities and challenges that come with building IT systems.
+By understanding these facets of systems development, organizations can better manage the complexities and challenges that come with building IT systems. 
+
+<ul>
+{% for resumen in site.resumenes %}
+  <li>
+    <a href="{{ resumen.url }}">{{ resumen.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for resumen in site.data.resumenes %}
+  <li>
+    {{ resumen.title }} por {{ resumen.author }}
+  </li>
+{% endfor %}
+</ul>
+
