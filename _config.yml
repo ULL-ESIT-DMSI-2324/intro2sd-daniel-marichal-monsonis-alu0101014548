@@ -200,6 +200,14 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  # Custom Jekyll Collection
+collections:
+  resumenes:
+    output: true
+    permalink: /:collection/:path/
+
+
+
 
 # Defaults
 defaults:
