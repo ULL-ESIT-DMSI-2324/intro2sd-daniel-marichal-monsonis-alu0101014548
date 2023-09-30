@@ -24,3 +24,10 @@ Sherlock Holmes es un personaje ficticio creado por Sir Arthur Conan Doyle. Es u
 - **Hábitos Inusuales**: Holmes tiene una personalidad idiosincrásica; toca el violín, es un experto en artes marciales y a veces usa drogas (principalmente cocaína).
 
 Sherlock Holmes es uno de los personajes literarios más adaptados y reinterpretados de la historia, apareciendo en innumerables adaptaciones de películas, programas de televisión, libros y obras de teatro.
+
+{% for resumen in site.resúmenes %}
+  <h2>{{ resumen.title }}</h2>
+  <strong>Tema: {{ resumen.topic }}</strong>
+  <p>Fecha: {{ resumen.date }}</p>
+  <p>{{ resumen.content }}</p>
+{% endfor %}
