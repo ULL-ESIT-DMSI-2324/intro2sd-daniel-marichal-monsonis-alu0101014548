@@ -204,7 +204,12 @@ collections:
 collections:
   resumenes:
     output: true
+    permalink: /:collection/:path/ 
+  holmes_quotes:
+    output: true
     permalink: /:collection/:path/
+
+    
 
 
 
@@ -337,6 +342,4 @@ compress_html:
   ignore:
     envs: development
 
-collections: 
-  resumenes:
-    output: true
+
