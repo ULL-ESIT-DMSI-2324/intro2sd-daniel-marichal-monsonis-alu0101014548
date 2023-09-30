@@ -14,23 +14,24 @@ Este proyecto incluye un resumen del Capítulo 1 del libro "Developing Informati
 - [Kanban Board](#kanban-board)
 - [Jekyll Collection](#jekyll-collection)
 - [Uso de Liquid y Archivos de Datos](#uso-de-liquid-y-archivos-de-datos)
+- [Uso de archivos `.csv` o `.json` en `_data`](#uso-de-archivos-csv-o-json-en-_data)
 - [Configuración de `_config.yml`](#configuración-de-_configyml)
 - [Entrega](#entrega)
 
 ## Rúbrica
 
-- [ ] **Se ha desplegado el sitio Web en GitHub pages usando Jekyll**
-- [ ] **Se resumen correctamente los conceptos del capítulo**
-- [ ] **Kanban Board project conteniendo las incidencias de la rúbrica**
-- [ ] **Despliegue en Netlify**
-- [ ] **Se ha creado una Jekyll Collection**
-- [ ] **Se ha hecho uso de Liquid** (mostrar ejemplos en el informe)
-- [ ] **Se ha hecho uso de un `.csv` o `.json` en `_data`** (mostrar ejemplos en el informe)
-- [ ] **Se ha reconfigurado los defaults del `_config.yml`**
-- [ ] **Página 404 personalizada**
-- [ ] **Página personal en GitHub Pages**
-- [ ] **Página personal en GitHub Pages enlazada desde el perfil GitHub del alumno**
-- [ ] **Entrega del `.zip` en el campus con el repositorio**
+- [x] **Se ha desplegado el sitio Web en GitHub pages usando Jekyll**
+- [x] **Se resumen correctamente los conceptos del capítulo**
+- [x] **Kanban Board project conteniendo las incidencias de la rúbrica**
+- [x] **Despliegue en Netlify**
+- [x] **Se ha creado una Jekyll Collection**
+- [x] **Se ha hecho uso de Liquid** (mostrar ejemplos en el informe)
+- [x] **Se ha hecho uso de un `.csv` o `.json` en `_data`** (mostrar ejemplos en el informe)
+- [x] **Se ha reconfigurado los defaults del `_config.yml`**
+- [x] **Página 404 personalizada**
+- [x] **Página personal en GitHub Pages**
+- [x] **Página personal en GitHub Pages enlazada desde el perfil GitHub del alumno**
+- [x] **Entrega del `.zip` en el campus con el repositorio**
 
 ## Resumen del Capítulo 1
 
@@ -43,6 +44,11 @@ El sitio web ha sido desplegado usando Jekyll y está disponible en GitHub Pages
 ## Despliegue en Netlify
 
 Adicionalmente, el sitio web ha sido desplegado en Netlify. Consulte la guía [Jekyll en Netlify](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) para más detalles.
+<p align="center">
+  <img src="assets/images/pag-netlify.png" alt="Ejemplo de página de configuración">
+  <img src="assets/images/netlify.png" alt="Ejemplo de página en Netlify básica">
+</p>
+
 
 ## Página 404 Personalizada
 
@@ -54,11 +60,26 @@ Se ha creado un tablero de Kanban en GitHub para hacer seguimiento de las tareas
 
 ## Jekyll Collection
 
-Se ha configurado una colección en Jekyll para los resúmenes de los capítulos.
+Se ha configurado una colección en Jekyll para los resúmenes y fráses célebres del personaje Sherlock Holmes.
+<p align="center">
+  <img src="assets/images/jk-coll.png" alt="Ejemplo de Jekyll collection en _config.yml">
+</p>
+
 
 ## Uso de Liquid y Archivos de Datos
 
 Se han utilizado etiquetas Liquid para la manipulación de datos en el sitio web. Ejemplos se incluirán en el informe final.
+<p align="center">
+  <img src="assets/images/lquid-index.png" alt="Ejemplo de jekyll para _resumenes">
+  <img src="assets/images/jekyll_liquid.png" alt="Ejemplo de jekyll para colección de fráses célebres de S.H.">
+</p>
+
+## Uso de archivos `.csv` o `.json` en `_data`
+
+En Jekyll, puedes cargar y utilizar fácilmente datos desde archivos .csv, .json, y .yml almacenados en el directorio _data. 
+<p align="center">
+  <img src="assets/images/archivo-csv.png" alt="Ejemplo de archivo csv">
+</p>
 
 ## Configuración de `_config.yml`
 
