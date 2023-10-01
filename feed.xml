@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/" rel="alternate" type="text/html" /><updated>2023-10-01T05:34:46-04:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>A flexible Jekyll theme for your blog or site with a minimalist aesthetic.</subtitle><author><name>Michael Rose</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Michael Rose</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Resumen del Capítulo 1: Desarrollo de Sistemas</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary/" rel="alternate" type="text/html" title="Resumen del Capítulo 1: Desarrollo de Sistemas" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary/">&lt;h3 id=&quot;summary-of-systems-development-concepts&quot;&gt;Summary of Systems Development Concepts&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/" rel="alternate" type="text/html" /><updated>2023-10-01T05:49:09-04:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>A flexible Jekyll theme for your blog or site with a minimalist aesthetic.</subtitle><author><name>Michael Rose</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Michael Rose</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Resumen del Capítulo 1: Desarrollo de Sistemas</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary/" rel="alternate" type="text/html" title="Resumen del Capítulo 1: Desarrollo de Sistemas" /><published>2023-09-20T00:00:00-04:00</published><updated>2023-09-20T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/Developing-Information-Systems-summary/">&lt;h3 id=&quot;summary-of-systems-development-concepts&quot;&gt;Summary of Systems Development Concepts&lt;/h3&gt;
 
 &lt;h4 id=&quot;what-is-systems-development&quot;&gt;What is Systems Development?&lt;/h4&gt;
 
@@ -35,7 +35,10 @@
 &lt;p&gt;Many organizations offshore or outsource their systems development. Offshoring is usually done to capitalize on cheaper, high-quality resources in other countries, such as India. Outsourcing is the practice of delegating development work to specialized IT firms, which might also be coupled with offshoring. These practices come with their own sets of advantages and challenges, such as communication barriers and loss of control over critical systems.&lt;/p&gt;
 
 &lt;p&gt;By understanding these facets of systems development, organizations can better manage the complexities and challenges that come with building IT systems.&lt;/p&gt;</content><author><name>Michael Rose</name></author><summary type="html">Summary of Systems Development Concepts</summary></entry><entry><title type="html">Informe</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post%20formats/informe/" rel="alternate" type="text/html" title="Informe" /><published>2022-10-01T00:00:00-04:00</published><updated>2022-10-01T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post%20formats/informe</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/post%20formats/informe/">&lt;h1 id=&quot;informe&quot;&gt;Informe&lt;/h1&gt;
-&lt;p&gt;October 01, 2022&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fecha de Publicación:&lt;/strong&gt; October 01, 2022&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -47,38 +50,40 @@
   &lt;li&gt;
     &lt;p&gt;standard&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Post Formats&lt;/p&gt;
-  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;informe&quot;&gt;Informe&lt;/h1&gt;
-&lt;p&gt;October 01, 2022&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Categorías:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Post Formats&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;readability&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;standard&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Post Formats&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Post Formats&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;resumen&quot;&gt;Resumen&lt;/h3&gt;
+
 &lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
 
-&lt;p&gt;The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.
-Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
+&lt;h3 id=&quot;etapas-del-desarrollo-de-sistemas&quot;&gt;Etapas del Desarrollo de Sistemas&lt;/h3&gt;
 
-&lt;p&gt;The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.
-Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;</content><author><name>Michael Rose</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">Informe October 01, 2022 Post Formats readability standard Post Formats Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system. The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+&lt;p&gt;Las etapas varían según el enfoque de desarrollo que se utilice. Aunque estas se describen con más detalle en el Capítulo 2, “Tipos de ciclos de vida y sus fundamentos”, generalmente incluirían las actividades que se muestran en la Figura 1.1, tales como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Estudio de viabilidad:&lt;/strong&gt; Para ver si el proyecto vale la pena.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ingeniería de requisitos:&lt;/strong&gt; Analizar la necesidad empresarial y especificar los requisitos del usuario.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diseño del sistema:&lt;/strong&gt; Para satisfacer las necesidades de los usuarios.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Desarrollo de software:&lt;/strong&gt; Necesario para satisfacer los requisitos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pruebas del software.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Implementación de la solución.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;fuente&quot;&gt;Fuente&lt;/h3&gt;
+
+&lt;p&gt;Ahmed, Tahir, et al. &lt;em&gt;Developing Information Systems : Practical guidance for IT professionals&lt;/em&gt;. Editado por James Cadle, BCS Learning &amp;amp; Development Limited, 2014. &lt;a href=&quot;http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962&quot;&gt;ProQuest Ebook Central&lt;/a&gt;.&lt;/p&gt;</content><author><name>Michael Rose</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">Informe</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
