@@ -25,7 +25,7 @@ Sherlock Holmes es un personaje ficticio creado por Sir Arthur Conan Doyle. Es u
 
 Sherlock Holmes es uno de los personajes literarios más adaptados y reinterpretados de la historia, apareciendo en innumerables adaptaciones de películas, programas de televisión, libros y obras de teatro.
 
-{% for resumen in site.resúmenes %}
+{% for resumen in site.resumenes %}
   <h2>{{ resumen.title }}</h2>
   <strong>Tema: {{ resumen.topic }}</strong>
   <p>Fecha: {{ resumen.date }}</p>

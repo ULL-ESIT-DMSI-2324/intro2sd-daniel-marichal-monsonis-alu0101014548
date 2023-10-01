@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Resumen del Capítulo 1: Desarrollo de Sistemas"
 date: 2023-09-20
 ---
