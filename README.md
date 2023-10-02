@@ -43,7 +43,7 @@ El sitio web ha sido desplegado usando Jekyll y está disponible en GitHub Pages
 
 ## Despliegue en Netlify
 
-Adicionalmente, el sitio web ha sido desplegado en Netlify. Consulte la guía [Jekyll en Netlify](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) para más detalles.
+Adicionalmente, el sitio web ha sido desplegado en Netlify.[Página en Netlify](https://some-weird-page.netlify.app) para más detalles.
 <p align="center">
   <img src="assets/images/pag-netlify.png" alt="Ejemplo de página de configuración">
   <img src="assets/images/netlify.png" alt="Ejemplo de página en Netlify básica">
