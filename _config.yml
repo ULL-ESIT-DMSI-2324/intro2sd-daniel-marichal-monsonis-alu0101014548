@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/not-so-minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Because who doesn't want a "dirt" skin for their site? Fashion-forward!
 
 # Site Settings
@@ -17,12 +17,11 @@ title_separator          : "~" # Let's keep things wavy
 subtitle                 : "Not Just Any Jekyll Theme"
 name                     : &name "Michael Rose...ish" # *wink*
 description              : &description "The least flexible Jekyll theme with an overwhelmingly minimalist aesthetic."
-
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # "/intro2sd-daniel-marichal-monsonis-alu0101014548/" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
-teaser                   : /workspaces/intro2sd-daniel-marichal-monsonis-alu0101014548/assets/images/A210FEC0-381A-4A25-AB74-554B03CC700E.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /workspaces/intro2sd-daniel-marichal-monsonis-alu0101014548/assets/images/A210FEC0-381A-4A25-AB74-554B03CC700E.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
