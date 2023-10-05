@@ -1,22 +1,21 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and probably forget about the next day.
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. But who cares? Restart the server process if you must.
+# `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/not-so-minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# Because who doesn't want a "dirt" skin for their site? Fashion-forward!
 
 # Site Settings
-locale                   : "en-US" # Because 'Murica
-title                    : "Introducción al Mundo de Confusión"
-title_separator          : "~" # Let's keep things wavy
-subtitle                 : "Not Just Any Jekyll Theme"
-name                     : &name "Michael Rose...ish" # *wink*
-description              : &description "The least flexible Jekyll theme with an overwhelmingly minimalist aesthetic."
+locale                   : "en-US"
+title                    : "Introducción al Desarrollo de Sistemas"
+title_separator          : "-"
+subtitle                 : "A Jekyll theme"
+name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # "/intro2sd-daniel-marichal-monsonis-alu0101014548/" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
