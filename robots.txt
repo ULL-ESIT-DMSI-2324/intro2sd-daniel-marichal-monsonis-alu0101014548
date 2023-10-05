@@ -1,1 +1,1 @@
-Sitemap: https://mmistakes.github.io/intro2sd-daniel-marichal-monsonis-alu0101014548/sitemap.xml
+Sitemap: https://mmistakes.github.io/sitemap.xml
