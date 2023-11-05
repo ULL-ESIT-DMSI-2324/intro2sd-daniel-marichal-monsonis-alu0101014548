@@ -13,8 +13,6 @@ toc_sticky: true
 
 Se ha creado una rama denominada `intro2sd` para marcar la entrega de la práctica anterior. La implementación actual del sistema de búsqueda se ha llevado a cabo en la rama `main`.
 
-![Imagen de ramas](../img/branches.png)
-
 ### Características de la Búsqueda
 
 - **Búsqueda Completa:** El sistema de búsqueda recorre todos los archivos del sitio, incluyendo tanto posts como páginas.
