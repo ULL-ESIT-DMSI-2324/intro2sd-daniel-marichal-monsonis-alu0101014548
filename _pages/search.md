@@ -3,6 +3,7 @@ layout: default
 permalink: /search/
 title: Search
 ---
+{% capture initSearch %}
 
 <h1>Search</h1>
 
@@ -18,10 +19,10 @@ title: Search
   </ul>
 </form>
 
-< script type="text/javascript" src="/assets/src/fetch.js"></script>
-< script type="text/javascript" src="/assets/src/search.js"></script>
 
-< script type="text/javascript">
+<script type="text/javascript" src="{{site.url}}/assets/src/search.js"></script>
+
+<script type="text/javascript">
   const search = new JekyllSearch(
     '{{site.url}}/assets/src/search.json',
     '#search',
@@ -30,3 +31,9 @@ title: Search
   );
   search.init(); 
 </script>
+
+<noscript>Please enable JavaScript to use the search form.</noscript>
+
+{% endcapture %}
+
+{{ initSearch | lstrip }}
