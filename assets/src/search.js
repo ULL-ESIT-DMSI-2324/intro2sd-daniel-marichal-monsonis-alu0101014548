@@ -47,6 +47,7 @@ class JekyllSearch {
     init() {
       
       const url = new URL(document.location)
+      console.log(url.searchParams.get("search"))
       if (url.searchParams.get("search")) {
         this.searchField.value = url.searchParams.get("search")
         this.displayResults()
